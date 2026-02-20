@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (do NOT commit large CSVs)
+data/*.csv
+data/**/*.csv
+
+# Training outputs
+checkpoints/
+best_checkpoints/
+ppo_action_logs/
+
+# Logs and outputs
+*.log
+*.npz
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
