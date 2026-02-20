@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Uniswap DRL Hedging
 
@@ -116,3 +117,7 @@ All strategies are evaluated with identical episode lengths and market data.
 
 This repository is provided for research and educational purposes only and does not constitute financial or investment advice.
 
+=======
+# uniswap-drl-hedging
+Uniswap lp simulation and DRL training
+>>>>>>> 04bd4ed5b1c02f232ca69792950800a4444ba6d3
